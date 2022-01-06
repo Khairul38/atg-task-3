@@ -13,7 +13,7 @@
 .content-div {
     position: fixed;
     height: 100vh;
-    background-color: rgb(34, 47, 66);
+    background-color: #5c298b;
     width: 40%;
 }
 
@@ -83,7 +83,7 @@
     width: 300px;
     margin-left: 350px;
     margin-top: 50px;
-    background-color: rgb(34, 47, 66);
+    background-color: #5c298b;
     border-radius: 500px;
     position: fixed;
 }
@@ -178,6 +178,9 @@
 
 .sixth-slide {
     background: url(/img/interior.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vw 100vh;
 }
 
 .seventh-slide {
