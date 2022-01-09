@@ -73,13 +73,13 @@ const drawWhenScroll = () => {
         svgSec.innerHTML = `
         <div class=" text-light align-div2-text">
         <h1 class="animate__animated animate__fadeInUp">25M+ Downloads</h1>
-        <h5 class="animate__animated animate__fadeInDown text-end">on appstore & google playstore</h5>
+        <h5 class="animate__animated animate__fadeInUp text-end">on appstore & google playstore</h5>
         </div>`;
         contentSec.innerHTML = `
         <div class=''>
         <img width='200px' class='mb-3' src="/ScrollAnimation Task Assets/world-communication-awards-for-best-digital-experience.png" alt="">
-        <h1 class='animate__animated animate__fadeInDown'>ABC 235</h1>
-        <div class='animate__animated animate__fadeIn'>
+        <h1 class='animate__animated animate__fadeInUp'>ABC 235</h1>
+        <div class='animate__animated animate__fadeInUp'>
         <span>We are the best web development</span><br>
         <span> company in the world</span>
         </div>
@@ -114,14 +114,14 @@ const drawWhenScroll = () => {
         svgPath.style.backgroundColor = '#393299'
         svgSec.innerHTML = `
         <div class=" text-light align-div1-text">
-        <h5 class="animate__animated animate__fadeInDown">The Next Big</h5>
-        <h1 class="animate__animated animate__fadeInDown">Blockchain</h1>
-        <h5 class="contentBottom text-end">Revolution</h5>
+        <h5 class="animate__animated animate__fadeInUp">The Next Big</h5>
+        <h1 class="animate__animated animate__fadeInUp">Blockchain</h1>
+        <h5 class="animate__animated animate__fadeInUp text-end">Revolution</h5>
         </div>`;
         contentSec.innerHTML = `
         <div>
         <h1 class='animate__animated animate__fadeInUp'>ABC 234</h1>
-        <div class='animate__animated animate__fadeIn'>
+        <div class='animate__animated animate__fadeInUp'>
         <span>We are the best web development</span><br>
         <span> company in the world</span>
         </div>
@@ -156,15 +156,15 @@ const drawWhenScroll = () => {
         firstContent.style.backgroundColor = '#110e3d'
         svgPath.style.backgroundColor = '#110e3d'
         svgSec.innerHTML = `
-        <div class="contentAnimation text-light align-div1-text">
-        <h5>Powered by advance</h5>
-        <img width='100%' class='animate__animated animate__fadeIn my-2' src="/ScrollAnimation Task Assets/nasa-mobile-app.png" alt="">
-        <h5 class="contentBottom text-end">algorithms</h5>
+        <div class="text-light align-div1-text">
+        <h5 class="animate__animated animate__fadeInUp">Powered by advance</h5>
+        <img width='100%' class='animate__animated animate__fadeInUp my-2' src="/ScrollAnimation Task Assets/nasa-mobile-app.png" alt="">
+        <h5 class="animate__animated animate__fadeInUp text-end">algorithms</h5>
         </div>`;
         contentSec.innerHTML = `
         <div class=''>
-        <h1 class='animate__animated animate__fadeInDown'>ABC 345</h1>
-        <div class="animate__animated animate__fadeIn">
+        <h1 class='animate__animated animate__fadeInUp'>ABC 345</h1>
+        <div class="animate__animated animate__fadeInUp">
         <span>We are the best</span><br>
         <span>web development company</span><br>
         <span>in the world</span>
@@ -205,15 +205,15 @@ const drawWhenScroll = () => {
         firstContent.style.backgroundColor = 'rgb(34, 47, 66)'
         svgPath.style.backgroundColor = 'rgb(34, 47, 66)'
         svgSec.innerHTML = `
-        <div class=" text-light align-div1-text">
+        <div class="text-light align-div1-text">
         <h5 class='animate__animated animate__fadeInUp'>Redefining</h5>
         <h1 class='animate__animated animate__fadeInUp'>UX Strategy</h1>
-        <h5 class="contentBottom text-end">and UI design</h5>
+        <h5 class="animate__animated animate__fadeInUp text-end">and UI design</h5>
         </div>`;
         contentSec.innerHTML = `
         <div class=''>
-        <h1 class='animate__animated animate__fadeInDown'>ABC 456</h1>
-        <div class="animate__animated animate__fadeIn">
+        <h1 class='animate__animated animate__fadeInUp'>ABC 456</h1>
+        <div class="animate__animated animate__fadeInUp">
         <span>We are the best</span><br>
         <span>web development company</span><br>
         <span>in the world</span>
@@ -247,13 +247,13 @@ const drawWhenScroll = () => {
         <div class="text-light align-div4-text">
         <h5 class='animate__animated animate__fadeInUp'>Text Headline</h5>
         <h1 class='animate__animated animate__fadeInUp'>Text Headline</h1>
-        <h5 class="contentBottom text-end">Footer headline</h5>
+        <h5 class="animate__animated animate__fadeInUp text-end">Footer headline</h5>
         </div>`;
         contentSec.innerHTML = `
         <div class=''>
-        <h1 class='animate__animated animate__fadeInDown'>ABC 567</h1>
-        <div class='class='animate__animated animate__fadeIn'> 
-        <div class='animate__animated animate__fadeIn'>
+        <h1 class='animate__animated animate__fadeInUp'>ABC 567</h1>
+        <div class='class='animate__animated animate__fadeInUp'> 
+        <div class='animate__animated animate__fadeInUp'>
         <span>We are the best web development</span><br>
         <span> company in the world</span><br>
         </div>
@@ -281,16 +281,16 @@ const drawWhenScroll = () => {
         firstContent.style.backgroundColor = '#1c32ac'
         svgPath.style.backgroundColor = '#1c32ac'
         svgSec.innerHTML = `
-        <div class="contentAnimation text-light align-div3-text">
-        <h5 class="text-start">Developing ERP solution for</h5>
-        <h1>Text Headline</h1>
-        <h5 class="contentBottom text-end">in furniture industry</h5>
+        <div class="text-light align-div3-text">
+        <h5 class="text-start animate__animated animate__fadeInUp">Developing ERP solution for</h5>
+        <h1 class="animate__animated animate__fadeInUp">Text Headline</h1>
+        <h5 class="animate__animated animate__fadeInUp text-end">in furniture industry</h5>
         </div>
         `;
         contentSec.innerHTML = `
         <div class=''>
         <h1 class='animate__animated animate__fadeInUp'>ABC 678</h1>
-        <div class="animate__animated animate__fadeIn">
+        <div class="animate__animated animate__fadeInUp">
         <span>Best since 2017</span><br>
         <span>We offer wide range of</span><br>
         <span>web and app developing</span><br>
@@ -323,13 +323,13 @@ const drawWhenScroll = () => {
         <div class=" text-light align-div1-text">
         <h5 class="text-start animate__animated animate__fadeInUp">Biggest classifieds</h5>
         <h1 class="text-end animate__animated animate__fadeInUp">East Asia</h1>
-        <h5 class="contentBottom text-end">Countries</h5>
+        <h5 class="animate__animated animate__fadeInUp text-end">Countries</h5>
         </div>`;
         contentSec.innerHTML = `
         <div class=''>
         <img width='200px' class='mb-3' src="/ScrollAnimation Task Assets/world-communication-awards-for-best-digital-experience.png" alt="">
-        <h1 class="animate__animated animate__fadeInDown">ABC 23478</h1>
-        <div class="animate__animated animate__fadeIn">
+        <h1 class="animate__animated animate__fadeInUp">ABC 23478</h1>
+        <div class="animate__animated animate__fadeInUp">
         <span>We are the best <br> web development</span><br>
         <span> company in the world</span>
         </div>
