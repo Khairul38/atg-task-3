@@ -38,7 +38,7 @@ path.style.strokeDashoffset = pathLength;
 
 const drawWhenScroll = () => {
     const drawPath = pathLength - (pathLength * calcScrollPercent());
-    console.log(drawPath);
+    // console.log(drawPath);
     // 1st div
     if (drawPath == 815.8143310546875) {
         dotsfill1.style.opacity = 1;
@@ -72,16 +72,16 @@ const drawWhenScroll = () => {
         svgPath.style.backgroundColor = '#5c298b'
         svgSec.innerHTML = `
         <div class=" text-light align-div2-text">
-        <h1 class="animate__animated animate__fadeInUp">25M+ Downloads</h1>
-        <h5 class="animate__animated animate__fadeInUp text-end">on appstore & google playstore</h5>
+            <h1 class="animate__animated animate__fadeInUp">25M+ Downloads</h1>
+            <h5 class="animate__animated animate__fadeInUp text-end">on appstore & google playstore</h5>
         </div>`;
         contentSec.innerHTML = `
         <div class=''>
-        <img width='200px' class='mb-3' src="/ScrollAnimation Task Assets/world-communication-awards-for-best-digital-experience.png" alt="">
-        <h1 class='animate__animated animate__fadeInUp'>ABC 235</h1>
-        <div class='animate__animated animate__fadeInUp'>
-        <span>We are the best web development</span><br>
-        <span> company in the world</span>
+            <img width='200px' class='mb-3' src="/ScrollAnimation Task Assets/world-communication-awards-for-best-digital-experience.png" alt="">
+            <h1 class='animate__animated animate__fadeInUp'>ABC 235</h1>
+            <div class='animate__animated animate__fadeInUp'>
+                <span>We are the best web development</span><br>
+                <span> company in the world</span>
         </div>
         <br>
         <div class="mt-4 d-flex justify-content-between">
